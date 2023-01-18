@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns-typescript",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000E\u0000S\u0000I\u0000G\u0000N\u0000-\u0000P\u0000A\u0000T\u0000T\u0000E\u0000R\u0000N\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJardiim/DESIGN-PATTERNS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielJardiim/DESIGN-PATTERNS/issues"
+  },
+  "homepage": "https://github.com/DanielJardiim/DESIGN-PATTERNS#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
